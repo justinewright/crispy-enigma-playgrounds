@@ -1,8 +1,9 @@
 import UIKit
 // MARK : - Variables
 
-var greeting = "Hello, playground"
+var greeting = "Hello"
 
 let name = "Justine"
+let surname = "Wright"
 
-print(greeting + " " + name )
+print(greeting + " " + name + " " + surname )
