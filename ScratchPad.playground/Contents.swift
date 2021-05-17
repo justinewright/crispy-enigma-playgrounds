@@ -1,7 +1,8 @@
 import UIKit
 // MARK : - Variables
-// wwdc
+
 var greeting = "Hello, playground"
 
+let name = "Justine"
 
-print(greeting)
+print(greeting + " " + name )
